@@ -1,9 +1,7 @@
-# 3-Statement-Model
-
 # 3-Statement Financial Model
 
 ## Project Overview
-This project involves building a **3-statement financial model from scratch**, following a structured approach to forecasting financial statements. The model includes the **income statement, balance sheet, and cash flow statement**, ensuring they are dynamically linked for accurate financial analysis.
+This project involves building a **3-statement financial model**, following a structured approach to forecasting financial statements. The model includes the **income statement, balance sheet, and cash flow statement**, ensuring they are dynamically linked for accurate financial analysis.
 
 ## Key Components of the Model
 
